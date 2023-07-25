@@ -6,3 +6,10 @@ Comcast is notorious for terrible customer service and despite repeated promises
 
 This repository consists of a Jupyter notebook which imports the .csv file in the data/ folder, creates labels and applies different machine learning algorithms to classify different complaint classes
 
+## ML algorithms:
+
+1) Naive Bayes
+2) Support Vector Machines
+3) Random Forest classifier(Ensemble method)
+4) K Nearest Neighbors
+5) CNN classifier
